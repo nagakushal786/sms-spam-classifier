@@ -1,1 +1,4 @@
 SMSSpamCollection
+model.pkl
+vectorizer.pkl
+__pycache__/
