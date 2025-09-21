@@ -14,7 +14,7 @@ python -m streamlit run app.py
 
 ### Initial Steps
 
-1. Install packages like `streamlit`, `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `seaborn`.
+1. Install packages like `streamlit`, `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `seaborn`, `nltk`, `string`, `wordcloud`, `pickle`.
 
 2. Run the file `sms_spam_classifier.ipynb` first in-order to generate the `model.pkl` and `vectorizer.pkl` files.
 
